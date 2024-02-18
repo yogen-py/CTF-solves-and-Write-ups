@@ -1,0 +1,10 @@
+upon opening the txt file and googling the first line we learn that it is related to Conway's game of life 
+The name of the challenge and the description lead me to search up Golly's game.
+Upon finding the website i paste the text
+however initially i dont find the result. 
+i read through the Conways game of life wiki and i learn that everything preceeding a ! is a pattern.
+
+First i omitted the second section of the text and put everything before the first ! as a section into golly. I didnt recieve an answer 
+i pasted the second section and i found the flag
+
+sun{th1s_w0nt_last}
