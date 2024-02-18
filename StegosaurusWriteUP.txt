@@ -1,0 +1,3 @@
+I used Steghide on the file and i got the flag
+
+flag{Y0u_f0und_7h3_me55ag3!!}

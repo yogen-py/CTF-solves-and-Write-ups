@@ -1,0 +1,4 @@
+This challenge helped me gain expereince using FTK imager and searching through discimages
+A thorough search and then finally a look through Recycle bin helped me find the flag
+
+ctf{90nE_8U7_N07_f0R9077En}

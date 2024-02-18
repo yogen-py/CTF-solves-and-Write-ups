@@ -1,0 +1,6 @@
+Looking at the Robert Frost poem and the mention of snow in the description clearly implies the use of Stegsnow
+I copied the text onto a textfile and ran stegsnow on it. 
+The " color of snow" is a bit of a mislead, using the string "white" as a password will fetch you nothing. 
+stegsnow will not directly give you a flag but it will clue you into the answer
+
+sks{NAME_OF_POET_IN_CAPITAL_WITH_UNDERSCORE} == sks{ROBERT_FROST}

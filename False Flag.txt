@@ -1,0 +1,8 @@
+I used binwalk -e on the image 
+this gave me a folder which had a text file which was actually a jpeg, just use file on it to get the details
+after renaming we get an image, usebinwalk on the image to get a folder
+after entering the folder we get another set of files of name 6AF90
+perform binwalk and you find the flag in a text file
+
+
+magpie{V1d30_ki113d_Th3_R4D10_St4R}

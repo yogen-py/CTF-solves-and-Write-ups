@@ -1,0 +1,4 @@
+the challenge provides a password in base64 which is  translated to 'pubj'
+We correct it to pubg and use it as a passphrase for stegseek
+
+CTF{pUbg_1s_b3tt3r_th@n_fr33_f1re}

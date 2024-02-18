@@ -1,0 +1,2 @@
+after dowloading the pdf, we find that it is password locked
+I used pdfcrack with rockyou.txt wordlist to crack the password and get the flag

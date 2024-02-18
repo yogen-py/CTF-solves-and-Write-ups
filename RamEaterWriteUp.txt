@@ -1,0 +1,10 @@
+Stegno, Forensics 
+
+
+I started solving this question with basic screening
+I first proceeded by uploading the image onto aperisolve and started running GHEX parallel. 
+I discovered that the file actually JFIF and on Zsteg displayed a lot of characters in quotes
+I proceeded to use the next screening tool in my suite of tools - steghide
+
+While using steghide's extract method, it asked me for a passphrase. The Description of the challenge has "ram" in quotes so I used that and it gave me the flag
+flag{us31Ng_sT3ghiD3_17_3aSy!}
