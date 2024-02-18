@@ -1,0 +1,8 @@
+We have a png image with broken critical chunks
+I track down all the critical chunks and fix them
+On fixing the image we get a screenshot of Matlab code
+There's a weird string which we copy paste onto Dcode
+We find out thatis Fractionated Morse Cipher
+On decoding we  get FLAGGHEXFRACTIONATEDMORSEENCODER 
+On change according to the Flag format
+The flag is FLAG{GHEXFRACTIONATEDMORSEENCODER}

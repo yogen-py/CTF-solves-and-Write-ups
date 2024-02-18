@@ -1,0 +1,9 @@
+To start with, we have a password protected pdf which we crack using pdfcrack and the rockyou.txt wordlist
+on opening the pdf using the password carrie05 we get a link to a google drive
+The google drive has an image of a google drive (important) and a word document with clue that tels us to look for a website that is open - Drive
+using Drive as a passphrase on the steghide tool we use on hard.jpg we get a link to another google drive
+the file nm in the drive tell us to find the sender's ip - 10.0.2.15
+using that as a password on hard_protectedpdf we get another link
+We follow the link and find another password protected pdf.
+This pdf on cracking gives us the flag
+flag{flag}

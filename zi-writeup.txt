@@ -1,0 +1,5 @@
+We are given a passwordprotected pdf and a screenshot of a desktop with scattered icons of which we can spot rockyou.txt and big.txt
+Use pdfcrack using the wordlist big.txt to get the passphrase zendplatform
+Use this password and open the pdf.
+on highlighting the text we get Flag{CipherMaster_1337}
+

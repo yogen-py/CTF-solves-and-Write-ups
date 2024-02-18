@@ -1,0 +1,4 @@
+I Started out but analyzing and following streams. While browsing throught i caught the name of the app as discord
+I used strings on the pcap file and found the flag in a fragmented format but with numbering that showed me how to stitch the string up. 
+flag{good_you_found_xxx} where x is discord
+so therefore the flag is flag{good_you_found_discord}
