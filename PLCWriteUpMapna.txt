@@ -1,0 +1,3 @@
+In this pcap file, i went through different type of packets exchanged and i found that the ACK packets from 10.19.31.85 have a coded message. 
+after figuring out the sequence of strings in each ACK packet we get the flag
+
