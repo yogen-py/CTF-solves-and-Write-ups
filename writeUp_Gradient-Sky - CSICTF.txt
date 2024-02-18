@@ -1,0 +1,3 @@
+upon downloading the image I ran the usual file,exiftool and binwalk on the image
+Binwalk showed me the prescence of a RAR file which i extrated and i found the flag in a text file
+  csictf{j0ker_w4snt_happy}
